@@ -24,5 +24,5 @@ while True:
 socket.close()
 print ESCAPEANSI
 print ANSI_BACKGROUND + ANSI_RED + 'Data received correctly'	
-print ESCAPANSI
+print ESCAPENSI
 exit()
